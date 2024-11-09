@@ -4,7 +4,7 @@
 
 I'm a fullstack developer with a passion.
 <br />
-As a Fullstack Developer, I mostly work on web development, but also skilled in WebDevelopment etc.
+As a Fullstack Developer, I mostly work on web development.
 My Main skill is React/next python,Django etc.
 <br />
 Here are the skills I'm specialized in the most:
@@ -12,7 +12,6 @@ Here are the skills I'm specialized in the most:
 - React, Redux, Saga, Thunk, Axios, MaterialUI, Reactstrap, Next.JS: 8 years
 - Vue, Vuex, Pinia, Vue-router, Vuetify, Quasar, Nuxt: 5 years
 - Angular, Material, NgRX, RxJS, Angular CLI: 8 years
-- PHP, Laravel, Codeigniter, Symphony, YII: 10 years
 - Node/Express.JS, Prisma: 10 years
 - Figma, Wirefame, Adobe XD, Photoshop: 5 years
 - GraphQL, Apollo, Typescript, tRPC: 8 years
