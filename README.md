@@ -17,7 +17,7 @@ Here are the skills I'm specialized in the most:
 - GraphQL, Apollo, Typescript, tRPC: 8 years
 - Python, Django: 5 years
 - TailwindCSS, animate.css, video.js, Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS: 7 years
-- Git, Github, Gitlab, Bitbucket, Docker, AWS: 12 years
+- Git, Github, Gitlab, Bitbucket, Docker, AWS: 7 years
 - PostgreSQL, MySQL, MongoDB, MariaDB: 10 years
 - Jira, Trello, Slack, Microsoft Teams: +10 years
 
