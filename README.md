@@ -9,17 +9,17 @@ My Main skill is React/next python,Django etc.
 <br />
 Here are the skills I'm specialized in the most:
 
-- React, Redux, Saga, Thunk, Axios, MaterialUI, Reactstrap, Next.JS: 8 years
+- React, Redux, Saga, Thunk, Axios, MaterialUI, Reactstrap, Next.JS: 5 years
 - Vue, Vuex, Pinia, Vue-router, Vuetify, Quasar, Nuxt: 5 years
-- Angular, Material, NgRX, RxJS, Angular CLI: 8 years
-- Node/Express.JS, Prisma: 10 years
+- Angular, Material, NgRX, RxJS, Angular CLI: 5 years
+- Node/Express.JS, Prisma: 7 years
 - Figma, Wirefame, Adobe XD, Photoshop: 5 years
-- GraphQL, Apollo, Typescript, tRPC: 8 years
+- GraphQL, Apollo, Typescript, tRPC: 5 years
 - Python, Django: 5 years
 - TailwindCSS, animate.css, video.js, Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS: 7 years
 - Git, Github, Gitlab, Bitbucket, Docker, AWS: 7 years
-- PostgreSQL, MySQL, MongoDB, MariaDB: 10 years
-- Jira, Trello, Slack, Microsoft Teams: +10 years
+- PostgreSQL, MySQL, MongoDB, MariaDB: 5 years
+- Jira, Trello, Slack, Microsoft Teams: +7 years
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
